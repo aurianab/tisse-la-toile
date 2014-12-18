@@ -1,0 +1,330 @@
+body {
+	background: #888;
+	
+}
+
+
+.container {
+	width:720px;
+
+	margin:0 auto; 
+	font-size:14px; 
+	
+}
+
+h1 {
+
+	font-family: 'Roboto', sans-serif;
+	text-transform: uppercase;
+
+
+	width:829px; 
+	
+	font-size: 50px;
+	
+
+}
+
+.intro {
+	font-family: 'Bitter', serif;
+	color: #000;
+	font-size:19px; 
+	line-height:26px; 
+	margin: 0 0 40px 0;
+	padding-bottom: 30px;
+	border-bottom: 3px #000 dotted;
+}
+
+p {
+	margin: 0;
+
+}
+
+strong {
+
+	 
+	float:left;   
+	margin:4px 10px 0 0;
+	padding: 23px;
+	border: 1px #000 dotted;;
+	font-size: 50px;
+}
+.origine {
+	font-family: 'Bitter', serif;
+	font-size: 16px;
+	line-height: 24px;
+	width: 720px;
+	text-align: justify;
+	font-weight: bold;
+	float: left;
+}
+h2 {
+	font-family: 'Roboto', sans-serif;
+	text-transform: uppercase;
+	font-size: 28px;
+}
+
+
+
+
+.quote {
+	width: 520px;
+	height: 128px;
+	text-indent: -9999px;
+	font-size: .2px;
+	background: url(../_images/quote.png) no-repeat;
+	border: 2px #000 dotted;
+	margin-top: 20px;
+}
+.gibson {
+	float: right;
+	position: relative;
+	left: 23px;
+
+
+}
+
+figcaption {
+	font-family: 'Bitter', serif;
+	font-size: 8px;
+
+}
+
+.cyberpunk > figure {
+	float: left;
+}
+
+.cyberpunk > h2 {
+	float: right;
+	margin-top: 50px;
+}
+
+.cyberpunk > p {
+	float: right;
+	width: 355px;
+	font-family: 'Bitter', serif;
+	font-size: 16px;
+	line-height: 24px;
+	text-align: justify;
+	font-weight: bold;
+}
+
+
+.definition, .media, .image_media, .sousgenre, .sousgenre2 {
+	position: relative;
+}
+
+.definition {
+	left: -40px;
+	top: 30px;
+}
+
+.media {
+	top: 60px;
+}
+
+.image_media {
+	float: right;
+	top: 50px;
+}
+
+.sousgenre {
+	float: left;
+	left: -360px;
+	top: -130px;
+}
+
+.sousgenre2 {
+	float: right;
+	left: -10px;
+
+}
+
+.reflexion {
+	font-family: 'Bitter', serif;
+	font-size: 16px;
+	line-height: 24px;
+	width: 720px;
+	float: left;
+
+	text-align: justify;
+	font-weight: bold;
+}
+
+.reflexion > h2 {
+	line-height: 42px;
+	float: left;
+	border-top: 3px #000 dotted;
+	margin-top: 30px;
+
+}
+
+.left, .left2, .left3 {
+	float: left;
+	width: 355px;
+}
+
+.normal {
+	float: right;
+	position: relative;
+	top: -170px;
+}
+
+.left2 {
+	position: relative;
+	top: -310px;
+	left: 30px;
+}
+
+.left3 {
+	width: 620px;
+	position: relative;
+	top: -270px;
+	
+	
+}
+.right, .right2, .right3, .right4, .right5, .right6 {
+	float: right;
+	position: relative;
+
+	width: 355px;
+}
+
+.right {
+	top: -260px;
+	left: -20px;
+}
+
+.normes {
+	float: left;
+	position: relative;
+	top: -265px;
+}
+
+
+
+.right2 {
+	top: -230px;
+	left: -40px;
+}
+
+.right3 {
+	top: -200px;
+	left: -20px;
+}
+
+.right4 {
+	top: -130px;
+	left: -20px;
+}
+
+.right5 {
+	top: -100px;
+	left: -40px;
+
+}
+
+.right6 {
+	width: 620px;
+	top: -140px;
+	left: -60px;
+
+}
+
+ul {
+
+	margin: 0;
+	padding: 0;
+	list-style: none;
+
+}
+
+
+.suggestion > p {
+	font-family: 'Bitter', serif;
+	width: 680px; 
+	float: left;
+	font-size: 28px;
+	line-height: 42px;
+	text-align: justify;
+	font-weight: bold;
+	position: relative;
+	top: -110px;
+}
+
+
+
+a {
+	font-family: 'Roboto', sans-serif;
+	padding: 10px;
+	color: #000;
+	text-decoration: none;
+	text-align: center;
+	font-weight: bolder;
+	text-transform: uppercase;
+	
+	
+}
+
+a:hover {
+	color: #fff;
+	
+}
+
+.sug {
+	float: left;
+	position: relative;
+	top: -120px;
+	left: -20px;
+
+
+}
+
+
+
+.lien, .lien2, .lien3 {
+	float: right;
+	position: relative;
+}
+
+.lien {
+	
+	top: -50px;
+	left: -50px;
+}
+
+.lien2 {
+	top: -10px;
+	left: -60px;
+
+}
+
+.lien3 {
+	top: -250px;
+	left: 10px;
+}
+
+footer {
+
+	font-family: 'Roboto', sans-serif;
+	text-transform: uppercase;
+	font-weight: bolder;
+	padding: 10px;
+	background: #000;
+	color: #888;
+	text-align: center;
+	
+
+	width: 100%;
+	float: right;
+
+	position: relative;
+	top: -120px;
+
+}
+
+.dwm {
+	color: #888;
+	padding: 0;
+	border-bottom: 1px #888 dotted;
+}
